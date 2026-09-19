@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalkumar0003/DSA/tree/master/0002-add-two-numbers) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalkumar0003/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vishalkumar0003/DSA/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/vishalkumar0003/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

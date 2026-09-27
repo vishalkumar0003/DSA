@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vishalkumar0003/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vishalkumar0003/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2652-sum-multiples](https://github.com/vishalkumar0003/DSA/tree/master/2652-sum-multiples) |
 ## Recursion
 |  |
 | ------- |

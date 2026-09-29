@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/vishalkumar0003/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vishalkumar0003/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishalkumar0003/DSA/tree/master/0075-sort-colors) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalkumar0003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar0003/DSA/tree/master/0503-next-greater-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishalkumar0003/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalkumar0003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/vishalkumar0003/DSA/tree/master/0012-integer-to-roman) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vishalkumar0003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalkumar0003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vishalkumar0003/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishalkumar0003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vishalkumar0003/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vishalkumar0003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vishalkumar0003/DSA/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalkumar0003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |

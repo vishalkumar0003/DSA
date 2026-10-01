@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vishalkumar0003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalkumar0003/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/vishalkumar0003/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalkumar0003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vishalkumar0003/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vishalkumar0003/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalkumar0003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/vishalkumar0003/DSA/tree/master/0242-valid-anagram) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishalkumar0003/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/vishalkumar0003/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vishalkumar0003/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/vishalkumar0003/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalkumar0003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishalkumar0003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |

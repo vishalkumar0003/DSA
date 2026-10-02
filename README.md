@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vishalkumar0003/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vishalkumar0003/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vishalkumar0003/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/vishalkumar0003/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishalkumar0003/DSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vishalkumar0003/DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/vishalkumar0003/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishalkumar0003/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalkumar0003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vishalkumar0003/DSA/tree/master/0242-valid-anagram) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vishalkumar0003/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/vishalkumar0003/DSA/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |

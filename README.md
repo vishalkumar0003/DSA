@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/vishalkumar0003/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/vishalkumar0003/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/vishalkumar0003/DSA/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/vishalkumar0003/DSA/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/vishalkumar0003/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/vishalkumar0003/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -260,4 +262,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/vishalkumar0003/DSA/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->

@@ -21,8 +21,9 @@ bool find(TreeNode* Left, TreeNode* Right){
     return find(Left->left, Right->right) && find(Left->right , Right->left);
 }
     bool isSymmetric(TreeNode* root) {
-        if(root == NULL)
-        return 1;
-        return find(root->left, root->right);
+       if(root == NULL)
+       return false;
+       return find(root->left, root->right);
     }
+    
 };

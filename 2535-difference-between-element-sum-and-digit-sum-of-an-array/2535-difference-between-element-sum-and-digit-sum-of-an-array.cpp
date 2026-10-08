@@ -13,6 +13,7 @@ public:
         }
         if(ans > sum)
         return ans-sum;
+        else
         return sum-ans;
     }
 };

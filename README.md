@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vishalkumar0003/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vishalkumar0003/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishalkumar0003/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vishalkumar0003/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/vishalkumar0003/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0413-arithmetic-slices](https://github.com/vishalkumar0003/DSA/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/vishalkumar0003/DSA/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishalkumar0003/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vishalkumar0003/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishalkumar0003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/vishalkumar0003/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalkumar0003/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalkumar0003/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/vishalkumar0003/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishalkumar0003/DSA/tree/master/0455-assign-cookies) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/vishalkumar0003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vishalkumar0003/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0219-contains-duplicate-ii](https://github.com/vishalkumar0003/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/vishalkumar0003/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalkumar0003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalkumar0003/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/vishalkumar0003/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalkumar0003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |

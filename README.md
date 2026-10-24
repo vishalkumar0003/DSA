@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vishalkumar0003/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0413-arithmetic-slices](https://github.com/vishalkumar0003/DSA/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/vishalkumar0003/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar0003/DSA/tree/master/0503-next-greater-element-ii) |
 | [0867-transpose-matrix](https://github.com/vishalkumar0003/DSA/tree/master/0867-transpose-matrix) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vishalkumar0003/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vishalkumar0003/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vishalkumar0003/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0413-arithmetic-slices](https://github.com/vishalkumar0003/DSA/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/vishalkumar0003/DSA/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vishalkumar0003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalkumar0003/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/vishalkumar0003/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/vishalkumar0003/DSA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalkumar0003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |

@@ -1,8 +1,7 @@
 class Solution {
 public:
     bool queryString(string s, int n) {
-        int size = s.size();
-        for(int i = 1;i <= n;i++){
+        for(int i = 1; i <= n;i++){
             string binary = "";
             int num = i;
             while(num > 0){

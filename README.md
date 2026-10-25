@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vishalkumar0003/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vishalkumar0003/DSA/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/vishalkumar0003/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/vishalkumar0003/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/vishalkumar0003/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/vishalkumar0003/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/vishalkumar0003/DSA/tree/master/0053-maximum-subarray) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/vishalkumar0003/DSA/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalkumar0003/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0349-intersection-of-two-arrays) |

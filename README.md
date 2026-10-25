@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vishalkumar0003/DSA/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/vishalkumar0003/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/vishalkumar0003/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vishalkumar0003/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vishalkumar0003/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vishalkumar0003/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0509-fibonacci-number](https://github.com/vishalkumar0003/DSA/tree/master/0509-fibonacci-number) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishalkumar0003/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vishalkumar0003/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vishalkumar0003/DSA/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/vishalkumar0003/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vishalkumar0003/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vishalkumar0003/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vishalkumar0003/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

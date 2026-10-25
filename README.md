@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/vishalkumar0003/DSA/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/vishalkumar0003/DSA/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar0003/DSA/tree/master/0503-next-greater-element-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalkumar0003/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0867-transpose-matrix](https://github.com/vishalkumar0003/DSA/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalkumar0003/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalkumar0003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalkumar0003/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vishalkumar0003/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vishalkumar0003/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/vishalkumar0003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/vishalkumar0003/DSA/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalkumar0003/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalkumar0003/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/vishalkumar0003/DSA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/vishalkumar0003/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalkumar0003/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalkumar0003/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vishalkumar0003/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalkumar0003/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/vishalkumar0003/DSA/tree/master/0594-longest-harmonious-subsequence) |
 ## Greedy
 |  |
 | ------- |

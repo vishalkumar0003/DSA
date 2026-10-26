@@ -5,11 +5,12 @@ public:
         while(i < matrix.size() && j >= 0){
             if(matrix[i][j] == target)
             return true;
-            else if(matrix[i][j] > target)
-              j--;
-            else{
-                i++;
+            else if(matrix[i][j] > target){
+                j--;
+
             }
+            else
+            i++;
         }
         return false;
     }

@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vishalkumar0003/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0136-single-number](https://github.com/vishalkumar0003/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishalkumar0003/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vishalkumar0003/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vishalkumar0003/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vishalkumar0003/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/vishalkumar0003/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vishalkumar0003/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 ## Newton's Method

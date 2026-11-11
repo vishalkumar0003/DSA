@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/vishalkumar0003/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/vishalkumar0003/DSA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
 | ------- |

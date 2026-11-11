@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/vishalkumar0003/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vishalkumar0003/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vishalkumar0003/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/vishalkumar0003/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vishalkumar0003/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar0003/DSA/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0328-odd-even-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vishalkumar0003/DSA/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar0003/DSA/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Binary Search
 |  |
 | ------- |

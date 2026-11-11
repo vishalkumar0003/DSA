@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vishalkumar0003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/vishalkumar0003/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vishalkumar0003/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/vishalkumar0003/DSA/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Tree
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/vishalkumar0003/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Math
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/vishalkumar0003/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vishalkumar0003/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/vishalkumar0003/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0445-add-two-numbers-ii](https://github.com/vishalkumar0003/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/vishalkumar0003/DSA/tree/master/0509-fibonacci-number) |
 | [1017-convert-to-base-2](https://github.com/vishalkumar0003/DSA/tree/master/1017-convert-to-base-2) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/vishalkumar0003/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/vishalkumar0003/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/vishalkumar0003/DSA/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vishalkumar0003/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vishalkumar0003/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/vishalkumar0003/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vishalkumar0003/DSA/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |

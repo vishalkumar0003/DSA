@@ -12,9 +12,8 @@ public:
                 st.pop();
                 if(st.empty())
                 st.push(i);
-                else{
-                    ans = max(ans, i - st.top());
-                }
+                else
+                ans = max(ans, i-st.top());
             }
         }
         return ans;
